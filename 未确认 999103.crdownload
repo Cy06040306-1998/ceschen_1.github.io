@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>生成的页面-1743169766946</title>
+    <style>body {margin:0; padding:1rem;}</style>
+</head>
+<body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flower Shop</title>
+    <!-- 这里可以添加CSS样式文件 -->
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+</head>
+<body>
+
+    <!-- 头部导航栏 -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">首页</a></li>
+                <li><a href="#products">产品</a></li>
+                <li><a href="#about">关于我们</a></li>
+                <li><a href="#contact">联系方式</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- 主要内容区域 -->
+    <main>
+        <!-- 首页部分 -->
+        <section id="home">
+            <h1>欢迎来到我们的鲜花店</h1>
+            <p>这里为您提供最新鲜的鲜花。</p>
+        </section>
+
+        <!-- 产品部分 -->
+        <section id="products">
+            <h2>我们的产品</h2>
+            <!-- 产品列表 -->
+            <ul>
+                <li>玫瑰</li>
+                <li>郁金香</li>
+                <li>百合</li>
+                <!-- 更多产品 -->
+            </ul>
+        </section>
+
+        <!-- 关于我们部分 -->
+        <section id="about">
+            <h2>关于我们</h2>
+            <p>我们是一家人工精选的鲜花店，致力于提供最优质的服务。</p>
+        </section>
+
+        <!-- 联系方式部分 -->
+        <section id="contact">
+            <h2>联系方式</h2>
+            <p>邮箱: contact@flowershop.com</p>
+            <p>电话: 123-456-7890</p>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer>
+        <p>&copy; 2023 Flower Shop. All rights reserved.</p>
+    </footer>
+
+    <!-- 这里可以添加JavaScript脚本文件 -->
+    <!-- <script src="script.js"></script> -->
+</body>
+</html>
+</body>
+</html>
